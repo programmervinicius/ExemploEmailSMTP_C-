@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Downloads\envioemailsmtp\ExemploEmailSMTP\bin\Debug\ExemploEmailSMTP.exe
+C:\Users\Vinicius\Downloads\envioemailsmtp\ExemploEmailSMTP\bin\Debug\ExemploEmailSMTP.pdb
+C:\Users\Vinicius\Downloads\envioemailsmtp\ExemploEmailSMTP\obj\x86\Debug\ExemploEmailSMTP.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Downloads\envioemailsmtp\ExemploEmailSMTP\obj\x86\Debug\ExemploEmailSMTP.FormTesteEnvioEmail.resources
+C:\Users\Vinicius\Downloads\envioemailsmtp\ExemploEmailSMTP\obj\x86\Debug\ExemploEmailSMTP.Properties.Resources.resources
+C:\Users\Vinicius\Downloads\envioemailsmtp\ExemploEmailSMTP\obj\x86\Debug\ExemploEmailSMTP.csproj.GenerateResource.Cache
+C:\Users\Vinicius\Downloads\envioemailsmtp\ExemploEmailSMTP\obj\x86\Debug\ExemploEmailSMTP.exe
+C:\Users\Vinicius\Downloads\envioemailsmtp\ExemploEmailSMTP\obj\x86\Debug\ExemploEmailSMTP.pdb
+C:\Users\Vinicius\Downloads\ExemploEmailSMTP\ExemploEmailSMTP\obj\x86\Debug\ExemploEmailSMTP.exe
+C:\Users\Vinicius\Downloads\ExemploEmailSMTP\ExemploEmailSMTP\obj\x86\Debug\ExemploEmailSMTP.pdb
+C:\Users\Vinicius\Downloads\ExemploEmailSMTP\ExemploEmailSMTP\bin\Debug\ExemploEmailSMTP.exe
+C:\Users\Vinicius\Downloads\ExemploEmailSMTP\ExemploEmailSMTP\bin\Debug\ExemploEmailSMTP.pdb
+C:\Users\Vinicius\Downloads\ExemploEmailSMTP\ExemploEmailSMTP\obj\x86\Debug\ExemploEmailSMTP.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Downloads\ExemploEmailSMTP\ExemploEmailSMTP\obj\x86\Debug\ExemploEmailSMTP.FormTesteEnvioEmail.resources
+C:\Users\Vinicius\Downloads\ExemploEmailSMTP\ExemploEmailSMTP\obj\x86\Debug\ExemploEmailSMTP.Properties.Resources.resources
+C:\Users\Vinicius\Downloads\ExemploEmailSMTP\ExemploEmailSMTP\obj\x86\Debug\ExemploEmailSMTP.csproj.GenerateResource.Cache
